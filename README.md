@@ -1,12 +1,12 @@
-# Nombre final del curso
+# Python avanzado
 
-Este es el repositorio del curso de LinkedIn Learning `[nombre del curso]`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
+Este es el repositorio del curso de LinkedIn Learning `[Python avanzado]`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
 
 ![Nombre completo del curso][lil-thumbnail-url] 
 
 Consulta el archivo Readme en la rama main para obtener instrucciones e información actualizadas.
 
-DESCRIPCIÓN DEL CURSO
+Profundiza en tu comprensión sobre Python como lenguaje de programación con este contenido, el cual te instruirá en temas avanzados que permiten tener un mayor control sobre las aplicaciones durante el desarrollo. Durante el curso verás el uso de los parámetros especiales args y kwargs en funciones, funciones lambda y list comprehension. También explorarás temas como el logging y debugging, los cuales ayudan a entender cómo está funcionado el código y a encontrar más fácilmente los posibles errores. Además, verás cómo manipular el formato JSON, muy utilizado en peticiones web.
 
 ## Instrucciones
 
@@ -26,9 +26,9 @@ Las ramas están estructuradas para corresponder a los vídeos del curso. La con
 
 ### Docente
 
-**Nombre del docente**
+**Ana Maria Pinto**
 
-Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.com/learning/instructors/).
+Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.com/learning/instructors/ana-maria-pinto).
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 [lil-course-url]: https://www.linkedin.com/learning/building-a-graphql-project-with-react-js

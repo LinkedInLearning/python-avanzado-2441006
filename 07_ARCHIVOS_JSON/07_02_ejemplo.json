@@ -1,0 +1,21 @@
+{
+    "llave_string": "Texto",
+    "otro_string": "Texto",
+    "entero": 1,
+    "decimal": 1.2,
+    "booleano_1": true,
+    "booleano_2": false,
+    "nulo": null,
+    "array": [1,2,3],
+    "objeto":{
+        "nombre": "Ana"
+    },
+    "personas": [
+        {
+            "nombre": "Ana"
+        },
+        {
+            "nombre": "paco"
+        }
+    ]
+}

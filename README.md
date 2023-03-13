@@ -1,6 +1,6 @@
 # Python avanzado
 
-Este es el repositorio del curso de LinkedIn Learning `[Python avanzado]`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
+Este es el repositorio del curso de LinkedIn Learning `Python avanzado`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
 
 ![Nombre completo del curso][lil-thumbnail-url] 
 
@@ -22,7 +22,6 @@ Las ramas están estructuradas para corresponder a los vídeos del curso. La con
    - [software]
 
 2. Clona este repositorio en tu máquina local usando la Terminal (macOS) o CMD (Windows), o una herramienta GUI como SourceTree.
-3. [Instrucciones específicas del curso].
 
 ### Docente
 
@@ -31,8 +30,5 @@ Las ramas están estructuradas para corresponder a los vídeos del curso. La con
 Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.com/learning/instructors/ana-maria-pinto).
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
-[lil-course-url]: https://www.linkedin.com/learning/building-a-graphql-project-with-react-js
-[lil-thumbnail-url]: https://cdn.lynda.com/course/2875095/2875095-1615224395432-16x9.jpg
-
-[1]: # (End of ES-Instruction ###############################################################################################)
-	
+[lil-course-url]: https://www.linkedin.com/learning/python-avanzado-18053873
+[lil-thumbnail-url]: https://cdn.lynda.com/course/2441006/2441006-1655451980034-16x9.jpg
